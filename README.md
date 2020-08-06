@@ -1,0 +1,2 @@
+# SimpleLauncherFiveM
+SimpleLauncherFiveM
