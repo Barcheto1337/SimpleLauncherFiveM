@@ -1,0 +1,10 @@
+E:\Project\SimpleLauncher\SimpleLauncher\bin\Debug\SimpleLauncher.exe.config
+E:\Project\SimpleLauncher\SimpleLauncher\bin\Debug\SimpleLauncher.exe
+E:\Project\SimpleLauncher\SimpleLauncher\bin\Debug\SimpleLauncher.pdb
+E:\Project\SimpleLauncher\SimpleLauncher\obj\Debug\SimpleLauncher.Form1.resources
+E:\Project\SimpleLauncher\SimpleLauncher\obj\Debug\SimpleLauncher.Properties.Resources.resources
+E:\Project\SimpleLauncher\SimpleLauncher\obj\Debug\SimpleLauncher.csproj.GenerateResource.cache
+E:\Project\SimpleLauncher\SimpleLauncher\obj\Debug\SimpleLauncher.csproj.CoreCompileInputs.cache
+E:\Project\SimpleLauncher\SimpleLauncher\obj\Debug\SimpleLauncher.exe
+E:\Project\SimpleLauncher\SimpleLauncher\obj\Debug\SimpleLauncher.pdb
+E:\Project\SimpleLauncher\SimpleLauncher\obj\Debug\SimpleLauncher.csprojAssemblyReference.cache
